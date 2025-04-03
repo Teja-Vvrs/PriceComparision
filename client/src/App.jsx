@@ -4,7 +4,7 @@ const App = () => {
   return (
     <div>
         <h1 class="text-3xl font-bold underline text-slate-500">
-            Hello world!
+           The Price Comparison App
       </h1>
     </div>
   )
