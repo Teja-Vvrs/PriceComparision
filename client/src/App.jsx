@@ -6,6 +6,7 @@ const App = () => {
         <h1 class="text-3xl font-bold underline text-slate-500">
            The Price Comparison App
       </h1>
+      <p>this is for the customers who are used to comapre ecommerce electronics</p>
     </div>
   )
 }
