@@ -22,7 +22,7 @@ const LoadingSpinner = () => {
             d="M4 12a8 8 0 1 1 16 0A8 8 0 0 1 4 12z"
           ></path>
         </svg>
-        <p className="text-center text-gray-500">Loading...</p>
+        <p className="text-center text-gray-700">Loading...</p>
     </div>
   )
 }
