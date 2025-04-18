@@ -4,7 +4,7 @@ import './Navbar.css'; // Optional: Add custom styles here
 
 const Navbar = () => {
     return (
-        <nav className="navbar">
+        <nav className="navba bg-blackr">
             <div className="navbar-logo">
                 <Link to="/">PriceCompare</Link>
             </div>
